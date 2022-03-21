@@ -1,0 +1,2 @@
+# mixpay-cdn
+MixPay CDN.
